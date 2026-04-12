@@ -2,4 +2,4 @@
 
 [![chuchu2525's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuchu2525)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu2525)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu2525)](https://github.com/chuchu2525/chuchu2525)
